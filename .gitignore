@@ -1,0 +1,11 @@
+*
+!.gitignore
+!.config/
+!.config/hypr/
+!.config/kitty/
+!.config/wofi/
+!.config/waybar/
+!.config/hypr/**
+!.config/kitty/**
+!.config/wofi/**
+!.config/waybar/**
